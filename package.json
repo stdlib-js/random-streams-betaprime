@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/random-streams-betaprime",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Create a readable stream for generating pseudorandom numbers drawn from a beta prime distribution.",
   "license": "Apache-2.0",
   "author": {
